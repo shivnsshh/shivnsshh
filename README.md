@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">🔭 I’m an UnderGrad B.tech (Bachelor of Technology) in Computer Science and Engineering<br><br> 🌱 I’m currently learning Data Structures and Algorithm (DSA).<br><br>💬 Ask me about Problem Solving, UI/UX Designing, DSA.<br><br></p>
+<p align="left">🔭 I’m an UnderGrad B.tech (Bachelor of Technology) in Computer Science and Engineering<br><br> 🌱 I’m currently learning how to build and solve problems along the way.<br><br>💬 Ask me about Problem Solving, UI/UX Designing, DSA.<br><br></p>
 
 ###
 
